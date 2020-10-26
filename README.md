@@ -1,2 +1,7 @@
 # basicprogram
-Add your basic programms in c language
+
+Add useful algorithm for competitive programming 
+
+# File name as {Algorithm_name}.{extension}
+ 
+
